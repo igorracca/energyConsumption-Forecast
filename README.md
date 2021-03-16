@@ -15,6 +15,8 @@ Training_test split (80-20%)
 3. sklearn
 4. matplotlib
 
+(Anaconda and Jupyter notebook are suggested)
+
 ## Dataset
 
 The dependent (forecasted) variable, i.e., the energy consumption, is stored in the consumption.csv file. To perform the forecast,
